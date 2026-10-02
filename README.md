@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Michał 👋
 
-<!--
-**michal-peter/michal-peter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior QA / Tester based in Tricity, Poland.
 
-Here are some ideas to get you started:
+I come from hands-on technical work (electrical installation, network cabling,
+rack and Wi-Fi setup). In my free time I designed and built **PlanerPlus** –
+a web CRM for insurance agents – and now I write automated tests for it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- 🧪 E2E test automation with **Playwright** (JavaScript) – [planerplus-tests](https://github.com/michal-peter/planerplus-tests)
+- ⚙️ Running tests in CI with **GitHub Actions**
+- 📚 Preparing for **ISTQB Foundation Level (CTFL 4.0)**
+
+### Tools
+Playwright · JavaScript · Git · GitHub Actions · Chrome DevTools
+
+### Looking for
+Junior QA / Tester role – Tricity or remote.
+
+📫 michalpeter1988@gmail.com
