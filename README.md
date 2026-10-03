@@ -10,7 +10,7 @@ a web CRM for insurance agents – and now I write automated tests for it.
 - 🧪 E2E test automation with **Playwright** (JavaScript) – [planerplus-tests](https://github.com/michal-peter/planerplus-tests)
 - ⚙️ Running tests in CI with **GitHub Actions**
 - 📚 Preparing for **ISTQB Foundation Level (CTFL 4.0)**
-
+- 🎬 QA Lab – demo app with intentional bugs + Playwright tests mapped to ISTQB techniques (boundary values, decision tables, state transitions) – [qa-lab-playwright](https://github.com/michal-peter/qa-lab-playwright) · [live app](https://michal-peter.github.io/qa-lab-playwright/app/) · [test report](https://michal-peter.github.io/qa-lab-playwright/report/)
 ### Tools
 Playwright · JavaScript · Git · GitHub Actions · Chrome DevTools
 
