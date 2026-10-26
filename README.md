@@ -1,6 +1,6 @@
 ## Hi, I'm Michał 👋
 
-Junior QA / Tester based in Tricity, Poland.
+Junior QA / Tester and IT Support based in Tricity, Poland.
 
 I come from hands-on technical work (electrical installation, network cabling, rack and Wi-Fi setup). In my free time I designed and built PlanerPlus – a web CRM for insurance agents – and now I write automated tests for it.
 
@@ -13,6 +13,6 @@ I come from hands-on technical work (electrical installation, network cabling, r
 Playwright · JavaScript · Git · GitHub Actions · Chrome DevTools
 
 ### Looking for
-Junior QA / Tester role – Tricity or remote.
+Junior QA / Tester or IT Support / Helpdesk role – Tricity or remote.
 
 📫 michalpeter1988@gmail.com
