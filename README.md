@@ -15,4 +15,4 @@ Playwright · JavaScript · Git · GitHub Actions · Chrome DevTools
 ### Looking for
 Junior QA / Tester or IT Support / Helpdesk role – Tricity or remote.
 
-📫 michalpeter1988@gmail.com
+📫 michalpeter1988@gmail.com  · [LinkedIn](https://www.linkedin.com/in/michal-peter)
